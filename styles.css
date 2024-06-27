@@ -1,0 +1,9 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: #b6a996;
+    background:url(images/hobart.jpg) no-repeat center fixed;
+    
+}
