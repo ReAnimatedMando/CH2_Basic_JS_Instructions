@@ -33,3 +33,6 @@ elsubTotal.textContent = '$' + subTotal;
 let elShipping = document.getElementById('shipping');
 elShipping.textContent = '$' + shipping;
 
+// Get the element that has an id of grandTotal then update its contents
+let elgrandTotal = document.getElementById('grandTotal');
+elgrandTotal.textContent = '$' + grandTotal;
