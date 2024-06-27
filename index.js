@@ -17,3 +17,7 @@ let el = document.getElementById('greeting');
 // Replace the content of that element with the personalized welcome message
 el.textContent = welcome;
 
+// Get the element that has an id of userSign then update its contents
+let elSign = document.getElementById('userSign');
+elSign.textContent = sign;
+
