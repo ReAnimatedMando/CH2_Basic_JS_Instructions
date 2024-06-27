@@ -21,3 +21,7 @@ el.textContent = welcome;
 let elSign = document.getElementById('userSign');
 elSign.textContent = sign;
 
+// Get the element that has an id of tiles then update its content
+let elTiles = document.getElementById('tiles');
+elTiles.textContent = tiles;
+
