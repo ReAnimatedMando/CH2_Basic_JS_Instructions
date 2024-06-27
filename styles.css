@@ -71,5 +71,22 @@ h2 {
     right: -2.3em;
 }
 
+.action {
+    position: relative;
+    top: 1.3em;
+    right: -2.3em;
+}
+
+#note {
+    background-color: #31373f;
+    border-radius: 0.5em;
+    color: #e3bb5a;
+    padding: 0.5em 1em;
+    margin-top: 1em;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+
 
 
