@@ -29,3 +29,7 @@ elTiles.textContent = tiles;
 let elsubTotal = document.getElementById('subTotal');
 elsubTotal.textContent = '$' + subTotal;
 
+// Get the element that has an id of shipping then update its contents
+let elShipping = document.getElementById('shipping');
+elShipping.textContent = '$' + shipping;
+
