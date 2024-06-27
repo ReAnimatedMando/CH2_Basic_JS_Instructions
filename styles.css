@@ -92,6 +92,18 @@ a {
     text-decoration: none;
 }
 
+.true, .false {
+    background: url(images/tick-cross.png);
+    display: block;
+    float: right;
+    height: 25px;
+    width: 25px;
+}
+
+.false {
+    background-position: 0-25px;
+}
+
 
 
 
