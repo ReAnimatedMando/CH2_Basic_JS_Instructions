@@ -104,6 +104,24 @@ a {
     background-position: 0-25px;
 }
 
+.message {
+    font-weight: bold;
+    line-height: 1.5em;
+    height: 2em;
+    display: block;
+    clear: left;
+    min-width: 10em;
+}
+
+.message span {
+    font-weight: normal;
+}
+
+.number {
+    text-align: left;
+}
+
+
 
 
 
