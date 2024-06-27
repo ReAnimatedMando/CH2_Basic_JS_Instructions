@@ -51,5 +51,25 @@ h2 {
     background: url(images/custom-sign.png) no-repeat center center;
 }
 
+#title {
+    font-size: 120%;
+    font-weight: bold;
+}
+
+#cost, .action {
+    background-color: #f84c53;
+    color: #fff;
+    width: auto;
+    height: 1em;
+    padding: 0.5em 0.75em;
+    float: right;
+}
+
+#cost {
+    position: relative;
+    top: 1em;
+    right: -2.3em;
+}
+
 
 
