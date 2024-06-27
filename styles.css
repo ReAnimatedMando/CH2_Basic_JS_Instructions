@@ -30,5 +30,26 @@ body {
     text-align: center;
 }
 
+h1, h2 {
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+h1 {
+    width: 278px;
+    height: 112px;
+    margin: 0 auto 0 auto;
+    padding-top: 40px;
+    background: url(images/elderflower-logo.png) no-repeat bottom center;
+}
+
+h2 {
+    width: 286px;
+    height: 18px;
+    margin: 0 auto 20px auto;
+    background: url(images/custom-sign.png) no-repeat center center;
+}
+
 
 
